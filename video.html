@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lesson Viewer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav class="navbar">
+    <h1>E-Learn</h1>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="c.html">Courses</a></li>
+      <li><a href="p.html">My Progress</a></li>
+      <li><a href="#">Profile</a></li>
+    </ul>
+  </nav>
+
+  <section class="video-section">
+    <h2 id="lesson-title">Loading...</h2>
+    <div class="video-player" id="video-player"></div>
+    <p class="lesson-description" id="lesson-desc">...</p>
+
+    <div class="lesson-controls">
+      <button class="btn" onclick="history.back()">⬅️ Back</button>
+      <button class="btn" onclick="alert('Marked as completed')">✅ Mark as Completed</button>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Course Progress</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav class="navbar">
+    <h1>E-Learn</h1>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="c.html">Courses</a></li>
+      <li><a href="p.html">My Progress</a></li>
+      <li><a href="#">Profile</a></li>
+    </ul>
+  </nav>
+
+  <header class="hero">
+    <h2>Track Your Progress</h2>
+  </header>
+
+  <section class="progress-section">
+    <div class="progress-container">
+      <span>Progress: <span id="progress-percent">0%</span></span>
+      <div class="progress-bar">
+        <div class="progress" id="progress-bar-fill"></div>
+      </div>
+    </div>
+
+    <ul class="lesson-list">
+      <li><input type="checkbox" class="lesson-check" /> Introduction to HTML</li>
+      <li><input type="checkbox" class="lesson-check" /> HTML Tags and Structure</li>
+      <li><input type="checkbox" class="lesson-check" /> Forms and Inputs</li>
+      <li><input type="checkbox" class="lesson-check" /> Media and Embedding</li>
+      <li><input type="checkbox" class="lesson-check" /> Semantic HTML</li>
+    </ul>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
