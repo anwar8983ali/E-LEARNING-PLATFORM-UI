@@ -88,8 +88,6 @@ Through this project, I gained real-world experience in:
 
 ## 📸 Output Screenshots
 
-> *(Replace these URLs with real uploaded screenshots in your repo)*
-
 ![Image](https://github.com/user-attachments/assets/6baa1c27-2dbf-4f01-b21c-e79d5394f17d)
 
 ![Image](https://github.com/user-attachments/assets/b6f6066b-9187-483e-b1c9-550763e58265)
@@ -98,11 +96,5 @@ Through this project, I gained real-world experience in:
 
 ---
 
-## 🔗 Live Demo
-
-[👉 Click here to view the live demo](https://your-github-username.github.io/your-repo-name)
-
 ---
-
-## 📁 File Structure
 
