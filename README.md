@@ -90,10 +90,11 @@ Through this project, I gained real-world experience in:
 
 > *(Replace these URLs with real uploaded screenshots in your repo)*
 
-![Homepage](https://your-github-link/assets/homepage.png)  
-![Courses Page](https://your-github-link/assets/courses.png)  
-![Progress Tracker](https://your-github-link/assets/progress.png)  
-![Video Page](https://your-github-link/assets/video.png)
+![Image](https://github.com/user-attachments/assets/6baa1c27-2dbf-4f01-b21c-e79d5394f17d)
+
+![Image](https://github.com/user-attachments/assets/b6f6066b-9187-483e-b1c9-550763e58265)
+
+![Image](https://github.com/user-attachments/assets/d93fc6d0-862b-4d05-a0cb-123f8b6224cf)
 
 ---
 
