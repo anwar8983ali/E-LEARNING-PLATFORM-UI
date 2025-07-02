@@ -92,7 +92,8 @@ Through this project, I gained real-world experience in:
 
 ![Image](https://github.com/user-attachments/assets/b6f6066b-9187-483e-b1c9-550763e58265)
 
-![Image](https://github.com/user-attachments/assets/d93fc6d0-862b-4d05-a0cb-123f8b6224cf)
+![Image](https://github.com/user-attachments/assets/d93fc6d0-862b-4d05-a0cb-123f8b6224cf)  
+![Image](https://github.com/user-attachments/assets/bca50c26-090d-4ba9-b72d-41d4dc62e643)
 
 ---
 
